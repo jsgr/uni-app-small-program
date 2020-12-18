@@ -4,6 +4,9 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
+		
+		<u-button >默认按钮</u-button>
+		<text class="iconfont icon-Home"></text>
 	</view>
 </template>
 
